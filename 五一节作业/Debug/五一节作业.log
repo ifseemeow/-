@@ -1,0 +1,7 @@
+﻿作业一.obj : error LNK2005: _main 已经在 test.obj 中定义
+作业三.obj : error LNK2005: _main 已经在 test.obj 中定义
+作业二.obj : error LNK2005: _main 已经在 test.obj 中定义
+作业二.obj : error LNK2005: _power 已经在 test.obj 中定义
+作业五.obj : error LNK2005: _main 已经在 test.obj 中定义
+作业四.obj : error LNK2005: _main 已经在 test.obj 中定义
+D:\Visual Studio 2019\university code C\五一节作业\Debug\五一节作业.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
